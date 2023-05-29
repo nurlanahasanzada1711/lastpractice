@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navcenter {
+    margin-left: 5%;
+    color: 5%;
+}
+
+.navcenter ul {
+    display: flex;
+    justify-content: center;
+    gap:10%;
+}
+.navcenter ul li {
+    list-style: none;
+    
+}
+
+.navcenter ul li a {
+    color: black;
+    text-decoration: none;
+}
